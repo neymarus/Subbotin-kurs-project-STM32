@@ -1,0 +1,15 @@
+main.c:74:5:__io_putchar	16	static
+main.c:101:5:main	40	static
+main.c:192:6:max30102_init	32	static
+main.c:260:9:max30102_getUnreadSampleCount	32	static
+main.c:276:6:max30102_getFIFO	88	dynamic
+main.c:322:6:filter	32	static
+main.c:353:6:calcAcDcFIFO	104	static
+main.c:435:6:max30102_cal	72	dynamic
+main.c:473:9:max30102_getSpO2	8	static
+main.c:474:10:max30102_getMaxMin	8	static
+main.c:480:6:SystemClock_Config	112	static
+main.c:523:13:MX_I2C1_Init	8	static
+main.c:569:13:MX_USART1_UART_Init	8	static
+main.c:604:13:MX_GPIO_Init	48	static
+main.c:638:6:Error_Handler	8	static,ignoring_inline_asm
