@@ -1,5 +1,0 @@
-MAX30102.c:6:6:max30102_init	8	static
-MAX30102.c:69:6:max30102_reset	8	static
-MAX30102.c:75:6:maxim_max30102_write_reg	16	static
-MAX30102.c:80:6:maxim_max30102_read_reg	16	static
-MAX30102.c:86:6:maxim_max30102_read_fifo	40	static
